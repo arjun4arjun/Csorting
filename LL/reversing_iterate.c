@@ -56,7 +56,6 @@ int main(){
     print(head);
     head=Reverse(head);
     printf("\nList after reversing: ;");
-
     print(head);
     return 0;
 }
